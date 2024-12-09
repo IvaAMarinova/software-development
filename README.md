@@ -7,3 +7,11 @@ Flowers are the reproductive structures of flowering plants. They are known for 
 - **Beauty:** Flowers bring aesthetic value to our lives, enhancing gardens, homes, and events.
 - **Symbolism:** They are often used to convey emotions, such as love, gratitude, and sympathy.
 - **Ecological Role:** Flowers play a vital role in pollination, helping plants reproduce and maintain ecosystems.
+
+## Common Types of Flowers
+
+1. **Roses:** Symbolize love and passion.
+2. **Tulips:** Represent elegance and grace.
+3. **Sunflowers:** Known for their bright yellow color and association with happiness.
+4. **Daisies:** Represent purity and innocence.
+5. **Orchids:** Exotic flowers symbolizing beauty and strength.
