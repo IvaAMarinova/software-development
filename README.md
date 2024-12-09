@@ -15,3 +15,9 @@ Flowers are the reproductive structures of flowering plants. They are known for 
 3. **Sunflowers:** Known for their bright yellow color and association with happiness.
 4. **Daisies:** Represent purity and innocence.
 5. **Orchids:** Exotic flowers symbolizing beauty and strength.
+
+## Fun Flower Facts
+
+- The largest flower, **Rafflesia arnoldii**, can grow up to 3 feet in diameter.
+- Sunflowers can track the sun, a behavior known as **heliotropism**.
+- Some flowers, like **night-blooming jasmine**, bloom only at night.
